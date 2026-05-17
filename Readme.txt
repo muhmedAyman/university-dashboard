@@ -1,7 +1,8 @@
 # University Dashboard
 
 ## 📌 Overview
-
+## 🔗 Live Demo 
+https://muhmedayman.github.io/university-dashboard/
 An interactive University Dashboard built using HTML, JavaScript, and amCharts to analyze and visualize university student data.
 
 The dashboard allows users to filter data by year and faculty while displaying dynamic charts and KPIs.
